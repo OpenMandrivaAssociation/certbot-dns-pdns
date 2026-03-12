@@ -8,6 +8,7 @@ License:	Apache-2.0
 Group:		Development/Python
 Requires:	certbot
 BuildRequires:	python
+BuildRequires:	python%{pyver}dist(poetry-core)
 BuildSystem:	python
 BuildArch:	noarch
 
