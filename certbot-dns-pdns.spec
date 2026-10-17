@@ -1,6 +1,6 @@
 Name:		certbot-dns-pdns
 Version:	0.1.1
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/c/certbot_dns_pdns/certbot_dns_pdns-%{version}.tar.gz
 Summary:	DNS Authenticator for certbot using the PowerDNS API
 URL:		https://pypi.org/project/certbot-dns-pdns/
